@@ -2,10 +2,10 @@
 
 I'm currently pursuing a double major in Mathematical Business & Computer Science at Wake Forest University. After graduation, I am returning to Amazon Web Services as a Program Manager in Data Center Capacity Delivery. 
 
-### Follow me here
+### Follow Me Here
 <a href="https://www.linkedin.com/in/ryan-fischbach" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Things I'm most interested in
+### Things I'm Most Interested In
  - Combining Data Science with Business
  - Learning about anything
  - Weightlifting & Nutrition
