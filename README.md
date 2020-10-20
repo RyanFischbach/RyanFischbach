@@ -13,6 +13,7 @@ I'm currently pursuing a double major in Mathematical Business & Computer Scienc
  
  ### Favorite Languages/Packages To Work With
 Java 
+
 Python:
 - NumPy
 - Pandas
