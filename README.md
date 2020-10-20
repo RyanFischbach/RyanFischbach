@@ -19,8 +19,7 @@ TensorFlow, Keras, SQL, LaTeX
 
 ### Relevant Coursework and Associated Projects
  - [CSC373: Data Mining](https://github.com/RyanFischbach/Data-Mining)
- - [CSC375: Neural Networks and Deep Learning](https://medium.com/dylanroy/hum-to-search-a-search-engine-for-earworms-ac430aa069c?source=rss-b1a89a0af139------2)
- - [](https://github.com/RyanFischbach/Deep-Learning-Neural-Networks)
+ - [CSC375: Neural Networks and Deep Learning](https://github.com/RyanFischbach/Deep-Learning-Neural-Networks)
  - [CSC221: Data Structures and Algorithms](https://github.com/RyanFischbach/DataStructuresAlgorithms)<hr>
 <div align="center">
 <!--
