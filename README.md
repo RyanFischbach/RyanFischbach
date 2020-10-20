@@ -8,7 +8,7 @@ I'm currently pursuing a double major in Mathematical Business & Computer Scienc
 ### Things I'm most interested in
  - Combining Data Science with Business
  - Learning about anything
- - Weighlifting & nutrition
+ - Weightlifting & nutrition
  - Tennis
  
  ### Favorite Languages/Packages To Work With
