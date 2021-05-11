@@ -12,7 +12,7 @@ I'm currently pursuing a double major in Mathematical Business & Computer Scienc
  - Tennis
  
  ### Favorite Languages/Packages To Work With
-Java, Python, NumPy, Pandas, Matplotlib, Seaborn, SKLearn
+Java, R, Python, NumPy, Pandas, Matplotlib, Seaborn, SKLearn
 
 ### Currently Learning
 TensorFlow, Keras, SQL, LaTeX
